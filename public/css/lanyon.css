@@ -464,10 +464,7 @@ a.pagination-item:hover {
 .theme-base-09 .related-posts li a:hover {
   color: #d28445;
 }
-/* MY: change titles back to grey */
-.theme-base-09 .page-title,
-.theme-base-09 .page-title a,
-.theme-base-09 .post-title,
+/* MY: change main title back to grey */
 .theme-base-09 .masthead-title a {
   color: #303030;
 }
