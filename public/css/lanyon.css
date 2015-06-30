@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .masthead-title small {
   font-size: 75%;
-  font-weight: 400;
+  font-weight: bold;
   color: #c0c0c0;
   letter-spacing: 0p
 }
@@ -469,7 +469,6 @@ a.pagination-item:hover {
 /* MY: change main title back to grey */
 .theme-base-09 .masthead-title a {
   color: #303030;
-  font-weight: bold;
 }
 
 /* Yellow */
