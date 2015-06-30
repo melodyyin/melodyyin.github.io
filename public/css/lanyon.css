@@ -464,6 +464,11 @@ a.pagination-item:hover {
 .theme-base-09 .related-posts li a:hover {
   color: #d28445;
 }
+.theme-base-09 .page-title,
+.theme-base-09 .post-title,
+.theme-base-09 .post-title a {
+  color: #303030;
+}
 
 /* Yellow */
 .theme-base-0a .sidebar,
