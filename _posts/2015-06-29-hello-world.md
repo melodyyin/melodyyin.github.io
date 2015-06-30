@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-redirect_from: http://melodyyin.github.io/2015/06/29/hello-world/
+redirect_from: "/2015/06/29/hello-world"
 permalink: hello-world
 comments: true
 ---
