@@ -313,6 +313,7 @@ a.sidebar-nav-item:focus {
 }
 
 /* Blog post or page title */
+/* MY: change post titles to bold */
 .page-title,
 .post-title,
 .post-title a {
@@ -468,6 +469,7 @@ a.pagination-item:hover {
 /* MY: change main title back to grey */
 .theme-base-09 .masthead-title a {
   color: #303030;
+  font-weight: bold;
 }
 
 /* Yellow */
