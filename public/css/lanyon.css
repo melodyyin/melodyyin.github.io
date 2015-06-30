@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 75%;
   font-weight: 400;
   color: #c0c0c0;
-  letter-spacing: 0;
+  letter-spacing: 0p
 }
 
 @media (max-width: 48em) {
@@ -317,6 +317,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
+  font-weight: bold;
 }
 .page-title,
 .post-title {
