@@ -7,7 +7,6 @@ relative_permalinks: true
 # Setup
 title:               Melody Yin
 tagline:             'life is a playground'
-description:         'hi, my name is Melody'
 url:                 http://melodyyin.github.io/
 paginate:            5
 
