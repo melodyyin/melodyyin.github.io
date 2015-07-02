@@ -9,7 +9,8 @@ My name is Melody and I recently graduated with my Master's degree in Computer S
 
 This blog is hosted by Github and created with [Jekyll](http://jekyllrb.com/). The theme I am using was created by [Mark Otto](http://markdotto.com/) and can be downloaded [here](https://github.com/poole/lanyon/#readme). 
 
-A few more acknowledgements:  
+A few more acknowledgements:
+
 - My dear friend Karen, who told me: "the *least* you can do is to have your website redirect to your GitHub page" <sub>(my domain registration expired)</sub>
 - [Joshua Lande](http://joshualande.com/), whose [howto post](http://joshualande.com/jekyll-github-pages-poole/) helped guide me through the setup process
 - [MicrowaveSam's video on basic Git commands](https://www.youtube.com/watch?v=73I5dRucCds)
