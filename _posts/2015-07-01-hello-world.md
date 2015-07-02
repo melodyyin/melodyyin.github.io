@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World!
-permalink: hello-world
 ---
 
 ##Hi there, welcome to my blag[*](https://xkcd.com/148/)! 
