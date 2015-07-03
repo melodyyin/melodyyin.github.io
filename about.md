@@ -13,4 +13,4 @@ I love reading poetry, listening to podcasts and learning what's new in the tech
 
 If you want to get in touch, shoot me an email at melodyyin@u.northwestern.edu or find me on [Yelp](http://yayhappyreviews.yelp.com/) or [Quora](http://www.quora.com/Melody-Yin-5). 
 
-Thanks for stopping by!
+Thanks for stopping by!:wave:
