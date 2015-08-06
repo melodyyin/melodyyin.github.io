@@ -29,7 +29,7 @@ Here is what the start and end views look like with the grid enabled:
 The model can be found [here](https://github.com/melodyyin/etc/blob/master/lyft.nlogo). I have also uploaded [a demo](https://youtu.be/LEJxTB6SG0g) for this model.
 
 ##Case for NetLogo
-NetLogo is perfect for these scenarios since the traffic system builds upon the collective behaviors of individuals. The built-in patch and turtle agents allow classes to be instantiated quickly and functions to be called easily. And of course, the visualization component is pretty great for debugging and to better understand the system behavior! I had a lot of fun building and extending upon the prompt given. 
+Even though the challenge could be solved using pretty much any language, NetLogo is the best fit since the traffic system builds upon the collective behaviors of individuals. The built-in patch and turtle agents allow classes to be instantiated quickly and functions to be called easily. And of course, the visualization component is pretty superb for debugging and for a stronger understanding of the system behavior! I had a lot of fun building and extending upon the prompt given. 
 
 There are several additional extensions that can be applied to this model. All can be implemented within NetLogo. 
 
