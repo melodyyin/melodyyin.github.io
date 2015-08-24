@@ -7,7 +7,7 @@ title: About
 
 ![cheeks less chubby than they appear](/etc/itme.jpg)
 
-I graduated from Northwestern University in June with degrees in Statistics and Computer Science. I am an aspiring data scientist! [Here are](courses.md) some of the courses I took. Most recently, I built a [patient activity detector for hospitals](http://melodyyin.github.io/patient-activity-detection-using-kinect). Mosey on over to [my about.me page](https://about.me/melodyyin) to learn more about past projects. 
+I graduated from Northwestern University in June with degrees in Statistics and Computer Science. I am an aspiring data scientist! [Here](courses) are some of the courses I took at Northwestern. Most recently, I built a [patient activity detector for hospitals](http://melodyyin.github.io/patient-activity-detection-using-kinect). Mosey on over to [my about.me page](https://about.me/melodyyin) to learn more about past projects. 
 
 I love reading poetry, listening to podcasts and learning what's new in the technology industry. I also enjoy creating and appreciating art in all forms!
 
