@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Melody Yin
 tagline:             'life is a playground'
 url:                 http://melodyyin.github.io/
-paginate:            5
+paginate:            3
 
 # Conversion
 highlighter:         pygments
