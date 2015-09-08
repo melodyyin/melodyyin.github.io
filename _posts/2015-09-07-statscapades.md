@@ -5,7 +5,7 @@ permalink: statscapades
 ---
 
 ###This is where I will be keeping a list of the statscapades I have embarked on! 
-There are many things I am curious about. If I encounter something new and interesting, I will try it, document my experiences and publish them here. All code is shown so you can follow along if the concept is unfamiliar to you, or you can send me suggestions for improvement/revision (email at the bottom) if you are an expert. All code written in R unless otherwise noted. 
+There are many things I am curious about. If I encounter something new and interesting, I will try it, document my experiences and publish them here. All code is shown so you can follow along if the concept is unfamiliar to you, or you can send me suggestions for improvement/revision (email at the bottom) if you are an expert. All code written in R and published using [knitr](yihui.name/knitr/) unless otherwise noted. 
 
 * K-Nearest Neighbors 
 * [Bayesian modeling](http://melodyyin.github.io/statscapades/ydc.html) (Python)
