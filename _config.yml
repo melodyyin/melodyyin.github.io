@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:               Melody Yin
@@ -24,3 +24,4 @@ version:             1.0.0
 
 gems:
   - jemoji
+  - jekyll-paginate
