@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statscapades
-permalink: statscapades-pg
+permalink: statscapades2
 ---
 
 ###This is where I will be keeping a list of the statscapades I have embarked on! 
