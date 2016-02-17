@@ -8,7 +8,7 @@ A few days ago, I was presented with a mini-case about attribution modeling. It 
 
 The case was so interesting that I kept thinking about it later that night, so I decided to build a NetLogo model to help me better understand it. Please note that this is my first foray into attribution modeling, and I've not yet read anything on the topic, so my ideas may likely be elementary.
 
-##Setup 
+## Setup 
 For simplicity, I chose to model only 2 channels. Each channel has 3 states ("view", "click", and "convert"), and they are linked via directed links, which represent transitions. Each link has a label which shows the transition probability. Some more design choices/assumptions:
 
 * 100% of a channel's visitors sees the ad, so the number of visitors is really the number of views, since ads are usually priced per view 
@@ -23,7 +23,7 @@ Here is what a model looks like after setup, and after it has finished running:
 
 Both channels have the same number of views (100). Interestingly, the red channel is responsible for more conversions even though the most likely path points to the blue channel as the more superior one, though the difference is quite small.
 
-##Thoughts
+## Thoughts
 There are infinite different most likely paths if nodes can be visited more than once, but if they can only be visited once, then there are 8. Here are the distinct shapes that the most likely path can take:
 ![ms paint ftw](/etc/patterns.png) 
 <center><sub>(MS Paint ftw)</sub></center>
@@ -32,7 +32,7 @@ We assume that the composition of the visitors to both channels are the same. Pa
 
 Although we understand behavior better now, the main question is still unanswered - how to distribute an investment between the two channels? If one channel is clearly superior, then we would want to invest all of our marketing dollars on that one, but this leaves us vulnerable if something changes. This is where the task started to sound like the Bayesian bandit, a Bayesian approach to the [multi-armed bandit](https://www.wikiwand.com/en/Multi-armed_bandit) problem. A good explanation of the Bayesian bandit can be found [here](https://www.chrisstucchio.com/blog/2013/bayesian_bandit.html). Basically, as more evidence accumulates, the distribution converges to the true underlying distribution. In our example, we can take the same approach - start by dividing our budget between the two channels, and then adjust based on the *effectiveness* of each channel. Adjustments should be made as regularly as the channels will allow.
 
-##Final Remarks
+## Final Remarks
 The most important question is how to determine the effectiveness. We don't simply want to consider the conversion rate, because the channel driving the conversion rate may not be the channel that is responsible for most of the conversions. A potential method is a count the number of links attributed to each channel. So, for example, patterns 1 and 2 have two links each, while pattern 5 gives one link to channel 1 and two to channel 2. The optimum design of the effectiveness score can be revealed with repeated testing. Additionally, we can use the most likely path to diagnose potential problems that can be controlled. 
 
 The model presented here is very simple, and we can imagine that more insights can be derived using a model with more than 2 channels (perhaps I'll come back to this later). My interpretation of each node being the **first** visit to the particular state could possibly be improved upon. All in all, this has been quite an engaging project and I'm happy to have been introduced to it. Questions like this make me feel very grateful to be in the analytics field!

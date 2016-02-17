@@ -4,7 +4,7 @@ title: Hello World!
 permalink: hello-world
 ---
 
-##Hi there, welcome to my blag[*](https://xkcd.com/148/)! 
+## Hi there, welcome to my blag[*](https://xkcd.com/148/)! 
 My name is Melody and I recently graduated with my Master's degree in Computer Science following my Bachelor's degree in Statistics from Northwestern University. I created this blag to document my statscapades, new learning experiences and fun experiments! 
 
 This blag is hosted by Github and powered by [Jekyll](http://jekyllrb.com/). The theme I am using was created by [Mark Otto](http://markdotto.com/) and can be downloaded [here](https://github.com/poole/lanyon/#readme). 
