@@ -5,7 +5,7 @@ title: Courses
 
 I graduated in June 2015 from Northwestern University with a Bachelor's degree in Statistics and a Master's degree in Computer Science. Here are the major-related courses I took! 
 
-###Master of Science in Computer Science (Sept 2014 - Jun 2015)
+### Master of Science in Computer Science (Sept 2014 - Jun 2015)
 
 * EECS 321 - Programming Languages
 * EECS 349 - Intro to Artificial Intelligence 
@@ -19,7 +19,8 @@ I graduated in June 2015 from Northwestern University with a Bachelor's degree i
 * STAT 344 - Statistical Computing 
 * STAT 465 - Bioinformatics 
 
-###Bachelor of Arts in Statistics, minor in Economics (Sept 2010 - Jun 2014)
+### Bachelor of Arts in Statistics, minor in Economics (Sept 2010 - Jun 2014)
+
 * STAT 210 - Intro to Stats for the Social Sciences 
 * STAT 320-1, 320-2 - Statistical Methods
 * STAT 325 - Survey Sampling
