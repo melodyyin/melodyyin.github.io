@@ -31,7 +31,7 @@ x = some_function()
 x = some_function(training_subset, testing_subset) 
 {% endhighlight %}
 
-**7. Debug** Breakpoints are really useful when I know the general area where the bug is occurring and want to check out the relevant variables at that point in the code. I've also been adding stopifnot statements in scripts, and doing this has been tremendously helpful in helping me catch mistakes that would otherwise go undetected (well, that is, until my manager gets back to me... :)). At some point, I want to check out the [testthat](https://cran.r-project.org/web/packages/testthat/index.html) package too. 
+**7. Debug** Breakpoints are really useful when I know the general area where the bug is occurring and want to check out the relevant variables at that point in the code. I've also been adding `stopifnot` statements in scripts, and doing this has been tremendously helpful in helping me catch mistakes that would otherwise go undetected (well, that is, until my manager gets back to me... :)). At some point, I want to check out the [testthat](https://cran.r-project.org/web/packages/testthat/index.html) package too. 
 
 **8. xapply functions, do.call** xapply becomes really important when working with large datasets, and they're much more concise than repeating code or writing loops. An useful application is calling `sapply(df, is.numeric)` when you want to find the numeric columns... very handy for cleaning training data with many predictors. I haven't had much practice working with `mapply` or `Map`, but they're in the toolbox... 
 

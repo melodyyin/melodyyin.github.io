@@ -11,7 +11,7 @@ url:                 http://melodyyin.github.io/
 paginate:            3
 
 # Conversion
-highlighter:         pygments
+highlighter:         rouge
 
 # About/contact
 author:
