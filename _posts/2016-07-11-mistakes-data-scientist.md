@@ -16,6 +16,7 @@ The saying that data scientists are storytellers is as true as it is overused. A
 - Not recognizing that simple is often enough and sometimes better  
 
 *How I learned this*: By missing a deadline because I was making a "fancy" model only to spend more time a few weeks down the line to simplify it, which actually led to more accurate results and a more interpretable methodology.
+
 In summary, the phrase: "Make it work, then make it better" is an accurate reflection of my new attitude towards doing work. 
 
 - Not understanding my manager's role
@@ -30,17 +31,17 @@ Although it sounds redundant and we all *know* this, I think this is difficult t
 
 I think this is another truth that seems obvious but is hard to accept and even more difficult to apply in your life, especially while transitioning from being a student, which is something you are 24/7, to a working professional, which *should* only be what you are 8 hours a day on the weekdays. 
 
-I used to justify spending a lot of time at work by telling myself that this is what new grads do - that we need to "pay our dues" in the first few years of joining the job market. However, I realized that even though your output could be higher by staying late and doing work on the weekends, the more time you invest towards work the more your job begins to control you. Your mood sways with how your project is going. And as it happens with anything worth doing, there will be some ups and plenty of downs, so it's best not to tie your sanity to this rollercoaster ride. 
+I used to justify spending a lot of time at work by telling myself that this is what new grads do - that we need to "pay our dues" in the first few years after joining the job market. However, I realized that even though your output could be higher by staying late and doing work on the weekends, the more time you invest towards work the more your job begins to control you. Your mood will begin to sway with how your project is going. And as it happens with anything worth doing, there will be some really thrilling highs and plenty of disappointing downs, so it's best not to tie your sanity to this rollercoaster ride. 
 
 - Not letting myself be a beginner
 
 *How I learned this*: By feeling the consequences of constantly being self-critical 
 
-While it's always good to aim high, I learned that it's also important to realize when the expectations you've placed upon yourself are unrealistic. For example, an entry-level engineer should not compare himself to the CTO and berate him or herself for not performing at the same level - that's just silly. It sounds trite, but it took me a bit to understand that it's ok to make mistakes and to not know things. Ironically, I think that it's only by learning from what appears to be setbacks, can we ever grow out of being beginners. 
+While it's always good to aim high, I learned that it's also important to realize when the expectations you've placed upon yourself are unrealistic. For example, an entry-level engineer should not compare himself to the CTO and berate himself for not performing at the same level - that's just silly. It sounds trite, but it took me a bit to understand that it's ok to make mistakes and to not know things. Ironically, I think that it's only by learning from what appears to be setbacks, can we ever grow out of being beginners. 
 
 ~
 
-Although I've only mentioned a few key lessons here, there are plenty more that I've acquired over the past few months. I'm grateful to my company, managers and co-workers for this opportunity to learn and expand. I'm also proud of myself! The transition from school to work is not easy, and it can be even tougher if you're in a new city. If something I've said resonated with you and you want to talk, I want to listen. My email is listed below!
+Although I've only mentioned a few key takeaways here, there are many more lessons that I've acquired over the past few months. I'm grateful to my company, managers and co-workers for this opportunity to learn and expand. I'm also proud of myself! The transition from school to work is not easy, and it can be even tougher if you're in a new city. If something I've said resonated with you and you want to talk, I want to listen. My email is listed below!
 
 Next post will be summarizing the [compatibility quiz](https://github.com/melodyyin/compatibility_quiz) I made this past weekend. 
 
