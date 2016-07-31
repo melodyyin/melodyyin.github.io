@@ -12,10 +12,10 @@ Lyft seems like a great company to work for. I checked out their job listing sec
 
 A pretty vague prompt, but it piqued my interest. I envisioned two cars driving in my mind, and immediately thought that this would be the perfect opportunity to use [NetLogo](https://ccl.northwestern.edu/netlogo/).
 
-##Basic Model
+## Basic Model
 The setup was straightforward: two origin points with a car at each of them and two destination points. The origins and destinations were patches (different colored and with their corresponding label), and the cars were turtles. Originally, I designated all of them as turtles, but I realized that would have been a poor design choice since only cars move. The locations were set using sliders. The agents could be easily instantiated using `set <varname> self` as they were being created. The shorter detour could simply be determined by `ask`ing for the `distancexy` from origin to destination for both drivers. 
 
-##Extensions
+## Extensions
 In my model, I made the driver not operating the vehicle into a person figure, and this rider "climbs in to the car" by staying invisible while traveling with the driver. The rider becomes visible again once he is dropped off. The driver also morphs into a person figure once he reaches his destination and both persons turn green to signal that the detour has been completed. Getting the direction of movement is as simple as calling `face <target>`. `patch-here` and `turtles-here` are useful for determining whether a location has been reached. 
 
 Here is what the start and end views look like: 
@@ -28,7 +28,7 @@ Here is what the start and end views look like with the grid enabled:
 
 The model can be found [here](https://github.com/melodyyin/etc/blob/master/lyft.nlogo). I have also uploaded [a demo](https://youtu.be/LEJxTB6SG0g) for this model.
 
-##Case for NetLogo
+## Case for NetLogo
 Even though the challenge could be solved using pretty much any language, NetLogo is the best fit since the traffic system builds upon the collective behaviors of drivers and their interactions with their environment. The built-in patch and turtle agents allow classes to be instantiated quickly and functions to be called easily. And of course, the visualization component is pretty superb for debugging and for a stronger understanding of the system behavior! I had a lot of fun building and extending upon the prompt given. 
 
 There are several additional extensions that can be applied to this model. All can be implemented within NetLogo. 
