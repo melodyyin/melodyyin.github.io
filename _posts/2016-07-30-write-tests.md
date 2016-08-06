@@ -13,9 +13,10 @@ Since the compatibility quiz was fresh on my mind, I decided to supplement tests
 The recommended style is to not have all of your tests in one test file, but since my script was pretty short, I felt it was fine to do. The workflow that I am going to start trying out is to write tests in separate tabs as I am working on the actual code for the analysis/model. The test file is just composed of a series of related `test_that` statements. For example, here is one of my test statements:  
 
 {% highlight r %}
-test_that("everyone has matches", {
-  expect_true(!anyNA(results_df)) 
-  expect_equal(length(unique(raw$user_id)), length(unique(results_df$user_name)))
+test_that("to_sentiment_score returns the correct word count", {
+  expect_is(to_sentiment_score("something"), "integer")
+  expect_equal(to_sentiment_score("something or another"), 3)
+  expect_equal(to_sentiment_score(NA), -1)
 })
 {% endhighlight %}
 
