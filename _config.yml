@@ -9,9 +9,11 @@ title:               Melody Yin
 tagline:             'life is a playground'
 url:                 http://melodyyin.github.io/
 paginate:            3
+baseurl:             /
 
 # Conversion
-highlighter:         rouge
+#markdown:         redcarpet
+highlighter:      pygments
 
 # About/contact
 author:
@@ -24,3 +26,4 @@ version:             1.0.0
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-gist 
