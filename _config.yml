@@ -1,26 +1,26 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:               Melody Yin
+tagline:             'life is a playground'
+url:                 http://melodyyin.github.io/
+paginate:            3
 
+# Conversion
+highlighter:         rouge
+
+# About/contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+  name:              Melody Yin
+  email:             melodyyin18@gmail.com
 
 # Custom vars
-version:          2.1.0
+version:             1.0.0
 
-github:
-  repo:           https://github.com/poole/hyde
+gems:
+  - jemoji
+  - jekyll-paginate
